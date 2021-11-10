@@ -6,7 +6,7 @@
 <p align="center">
   <a href= </a> •
   <a href="https://instagram.com/patelbhavin_offical">Instagram</a> •
-  <a href="https://www.snapchat.com/add/bhavin_patel273">Snapchat</a> •
+  <a href="https://www.snapchat.com/add/bhavin_pate273">Snapchat</a> •
  
 </p>
 
