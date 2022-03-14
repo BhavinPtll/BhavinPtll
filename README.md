@@ -1,3 +1,5 @@
+<html>
+ <body>
 <svg fill="none" viewBox="0 0 3000 400" width="3000" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -55,7 +57,7 @@
                 }
             </style>
             <div class="container">
-                <h1>HELLO WORLD!, I'm KishanPatel A Passionate Programmer | Web Developer </h1>
+                <h1>HELLO WORLD!, I'm Bhavin Patel A Passionate Programmer | Web Developer </h1>
 
             </div>
         </div>
@@ -71,7 +73,8 @@
   <a href="https://www.snapchat.com/add/bhavin_pate273">Snapchat</a> •
  
 </p>
-
+</body>
+</html>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp
